@@ -9,10 +9,10 @@ Have a preview on how a Facebook Page is going to look. Customize everything, Co
 * Get Feedback
 * Done
 ## Replacing images
-Just drag and drop an image.  
+Just drag and drop an image  
 ![Replace images](https://raw.githubusercontent.com/alienmtnez/Adobe-XD-Facebook-Mockup/master/replace-images.gif)
 ## What about license?
 Free (do whatever you want) Mockup
 ## Credits
-Profile pictures used are from [Prexels](http://pexels.com) 
-Cover, Adobe XD Logo and Posts images are from [Adobe XD Fan Page](https://www.facebook.com/AdobeExperienceDesign) 
+* Profile pictures used are from [Prexels](http://pexels.com) 
+* Cover, Adobe XD Logo and Posts images are from [Adobe XD Fan Page](https://www.facebook.com/AdobeExperienceDesign) 
