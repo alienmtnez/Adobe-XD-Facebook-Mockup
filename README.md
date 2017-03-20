@@ -1,1 +1,6 @@
-# Adobe-XD-Facebook-Mockup
+# Adobe XD Facebook Mockup
+Facebook Page Mockup created using Adobe XD.
+## How to use it?
+* Download the Adobe XD - Facebook Mockup
+* Replace the images
+* Share the link with your client
